@@ -1,0 +1,1370 @@
+         {1}{1}23.976
+         {1199}{1281}-Iz eyvrixinn in plejs?|-Juu weern’t sepouzd tuu rilyv my.
+         {1287}{1350}AJ nou, bat AJ feylt lajk tejkinn e shift.
+         {1363}{1420}Juu lajk him, don’t juu?|Juu lajk wochinn him.
+         {1426}{1498}-Don’t by ridikjules.|-Wi’e gone kil him. Juu andestaind?
+         {1504}{1563}Moorfies bilyvz hy iz the Wan.
+         {1570}{1591}Duu juu?
+         {1597}{1640}It dazn’t maite wot AJ bilyv.
+         {1646}{1685}Juu don’t, duu juu?
+         {1691}{1741}-Did juu hie thait?|-Hie wot?
+         {1747}{1785}Aar juu shue this lajn iz klyn?
+         {1791}{1839}Jeye, ov koors Aj’m shue.
+         {1847}{1882}AJ beyte gou.
+         {2792}{2835}-Fryz! Pelys!|-Haindz on joor heyd!
+         {2848}{2874}Duu it! Duu it nau!
+         {3387}{3419}Luuteynent.
+         {3426}{3450}Ou, shit.
+         {3470}{3547}Luuteynent, juu weer given|spisifik oordez.
+         {3553}{3594}Aj’m qast duinn maj qob.
+         {3609}{3715}Juu giv my thait "quris-maj-dik-shen"|kraip, juu kain kraim it ap joor ais.
+         {3726}{3785}The oordez weer foor joor preteykshn.
+         {3822}{3875}AJ xink wy kain haindl wan litl geerl.
+         {3998}{4040}AJ seynt tuu juunits!
+         {4046}{4084}Thej’e brinninn heer daun nau!
+         {4090}{4165}Nou, Luuteynent, joor meyn|aar oolreydi deyd.
+         {4867}{4887}Shit.
+         {4948}{5005}Moorfies, the lajn woz trejst.|AJ don’t nou hau.
+         {5011}{5049}AJ nou. Thej kat the haard lajn.
+         {5055}{5107}Theye’z nou tajm.|Geyt tuu enathe eyksit.
+         {5113}{5146}Aar theye eyni ejqents?
+         {5151}{5171}Jeys.
+         {5176}{5204}Godaim it.
+         {5210}{5247}Juu haiv tuu foukes, Triniti.
+         {5253}{5310}Theye’z e foun ait Weyls aind Lejk.
+         {5319}{5359}Juu kain mejk it.
+         {5365}{5405}-Ool rajt.|-Gou.
+         {6895}{6920}Thait’s imposebl.
+         {7759}{7808}Geyt ap, Triniti.|Qast geyt ap.
+         {7823}{7852}Geyt ap.
+         {8952}{8988}Shy got aut.
+         {8995}{9026}It dazn’t maite.
+         {9032}{9082}The infoorment iz riel.
+         {9114}{9154}Wy haiv the nejm ov theye neykst taargit.
+         {9160}{9200}The nejm iz Nyou.
+         {9279}{9315}Wi’l nyd e seerch raninn.
+         {9322}{9368}It haiz oolreydi bigan.
+         {10681}{10710}Wot?
+         {10848}{10884}Wot the heyl?
+         {11067}{11114}"Folou the wajt raibit. "
+         {11398}{11426}Huu iz it?
+         {11432}{11463}It’s Choj.
+         {11787}{11815}Ju’e tuu auez lejt.
+         {11829}{11871}AJ nou. It’s heer foolt.
+         {11878}{11901}Juu got the mani?
+         {11952}{11980}Tuu graind.
+         {12001}{12028}Hould on.
+         {12452}{12485}Haililuuje.
+         {12491}{12560}Ju’e maj sejvie.|Maj oun peersnel Qyzes Krajst.
+         {12566}{12611}Juu geyt koot juuzinn thait. . . .
+         {12617}{12668}AJ nou. This neyve haipent.|Juu don’t igzists.
+         {12695}{12745}-Rajt.|-Samxinn ronn, main?
+         {12751}{12800}Juu luk e litl wajte thain juuqhuel.
+         {12827}{12879}Maj kempjuute, it. . . .
+         {12951}{13060}Eyve haiv thait fylinn weye ju’e|not shue if ju’e ewejk oor dryminn?
+         {13079}{13145}Ool the tajm.|It’s koold meyskelin.
+         {13157}{13208}It’s the ounli wej tuu flaj.
+         {13229}{13289}It qast saundz lajk juu|nyd tuu anplag.
+         {13307}{13356}Geyt sam R aind R?
+         {13365}{13455}Wot duu juu xink, Dujour?|Shud wy tejk him with as?
+         {13503}{13532}Deyfinitli.
+         {13538}{13614}Nou, AJ kaan’t. AJ haiv weerk temorou.
+         {13627}{13654}Kam on.
+         {13660}{13723}It’l by fan. AJ promis.
+         {13879}{13915}Jeye.
+         {13935}{13980}Shue. Aj’l gou.
+         {14644}{14667}Helou, Nyou.
+         {14704}{14727}Hau duu juu nou thait nejm?
+         {14747}{14788}AJ nou e lot ebaut juu.
+         {14809}{14829}Huu aar juu?
+         {14835}{14859}Maj nejm iz Triniti.
+         {14882}{14911}Triniti.
+         {14954}{14978}The Triniti?
+         {14989}{15030}Thait kraikt the IRS D-bejs?
+         {15036}{15071}Thait woz e lonn tajm egou.
+         {15077}{15097}Qyzes.
+         {15103}{15123}Wot?
+         {15134}{15177}AJ qast xoot. . .
+         {15219}{15247}. . .juu weer e gaj.
+         {15253}{15288}Moust gajz duu.
+         {15317}{15370}Thait woz juu on maj kempjuute.
+         {15385}{15412}Hau did juu duu thait?
+         {15427}{15492}Rajt nau, ool AJ kain teyl juu. . .
+         {15507}{15544}. . .iz thait ju’e in dejnqe.
+         {15555}{15613}-AJ broot juu hie tuu woorn juu.|-Ov wot?
+         {15627}{15667}Thej’e wochinn juu, Nyou.
+         {15681}{15701}Huu iz?
+         {15706}{15739}Plyz qast lisen.
+         {15823}{15867}AJ nou waj ju’e hie, Nyou.
+         {15886}{15933}AJ nou wot juu’v byn duinn.
+         {15939}{15984}AJ nou waj juu haardli slyp. . .
+         {15991}{16066}. . .waj juu liv/lajv eloun aind waj,|najt aafte najt. . .
+         {16072}{16128}. . .juu sit ait joor kempjuute.
+         {16156}{16193}Ju’e lukinn foor him.
+         {16212}{16284}AJ nou, bikoz AJ woz wans|lukinn foor the sejm xinn.
+         {16296}{16347}Aind weyn hy faund my. . .
+         {16362}{16436}. . .hy tould my AJ wozn’t rili|lukinn foor him. . .
+         {16458}{16500}. . .AJ woz lukinn foor en aanse.
+         {16515}{16590}It’s the kweystshen thait drajvz as, Nyou.
+         {16606}{16670}It’s the kweystshen|thait broot juu hie.
+         {16720}{16753}Juu nou the kweystshen. . .
+         {16759}{16795}. . .qast aiz AJ did.
+         {16832}{16871}Wot iz the Mejtriks?
+         {16877}{16936}The aanse iz aut theye, Nyou.
+         {16952}{17000}It’s lukinn foor juu.
+         {17019}{17060}Aind it wil fajnd juu. . .
+         {17066}{17114}. . .if juu wont it tuu.
+         {17277}{17297}Shit.
+         {17303}{17333}Shit, shit.
+         {17579}{17647}Juu haiv e problem with ooxoriti,|Mr. Aindesen.
+         {17653}{17750}Juu bilyv thait juu aar speyshl,|thait the ruulz duu not eplaj tuu juu.
+         {17767}{17815}Obviesli, juu aar mistejken.
+         {17886}{17955}This iz wan ov the top|softweye kampeniz in the weerld. . .
+         {17961}{18042}. . .bikoz implojyz andestaind|thej aar paart ov e houl.
+         {18048}{18159}Thas, if en implojy haiz e problem,|the kampeni haiz e problem.
+         {18213}{18290}The tajm haiz kam tuu mejk|e chojs, Mr. Aindesen.
+         {18311}{18404}Ajthe juu chuuz tuu by ait joor deysk|on tajm from this dej foorx. . .
+         {18419}{18481}. . .oor juu chuuz tuu fajnd enathe qob.
+         {18502}{18534}Duu AJ mejk majseylf klie?
+         {18540}{18598}Jeys, Mr. Rajnhaart.|Peerfiktli klie.
+         {18801}{18821}Tomes Aindesen?
+         {18876}{18910}Jeye, thait’s my.
+         {19102}{19130}Grejt.
+         {19164}{19192}Haiv e najs dej.
+         {19595}{19675}Helou, Nyou. Duu juu nou huu this iz?
+         {19729}{19771}-Moorfies.|-Jeys.
+         {19777}{19825}Aj’v byn lukinn foor juu.
+         {19831}{19907}AJ don’t nou if ju’e reydi tuu sy|wot AJ wont tuu shou juu.
+         {19913}{19989}Bat anfoorchunitli, juu aind AJ|haiv ran aut ov tajm.
+         {19995}{20084}Thej’e kaminn foor juu, aind AJ don’t nou|wot thej’e gouinn tuu duu.
+         {20090}{20122}Huu’z kaminn foor my?
+         {20128}{20178}Staind ap aind sy foor jeseylf.
+         {20184}{20220}Wot? Rajt nau?
+         {20227}{20251}Jeys.
+         {20257}{20287}Nau.
+         {20308}{20353}Duu it slouli.
+         {20363}{20392}The eylivejte.
+         {20509}{20552}Ou, shit!
+         {20664}{20688}Wot duu thej wont?
+         {20694}{20782}AJ don’t nou. If juu don’t wont|tuu fajnd aut, geyt aut ov theye.
+         {20788}{20803}Hau?
+         {20808}{20884}AJ kain gajd juu,|bat juu mast/maist duu igzaiktly aiz AJ sej.
+         {20905}{20953}The kjuubikl ekros from juu iz eympti.
+         {21028}{21079}-Bat wot if thej--|-Gou. Nau.
+         {21241}{21298}Stej hie foorqast e moument.
+         {21471}{21537}Weyn AJ teyl juu,|gou tuu the eynd ov the rou...
+         {21543}{21590}... tuu the ofis|ait the eynd ov the hool.
+         {21596}{21653}Stej aiz lou aiz juu kain.
+         {21711}{21735}Gou. Nau.
+         {22080}{22165}Gud. Nau, autsajd|theye iz e skaifeld.
+         {22230}{22286}-Hau duu juu nou this?|-Wy don’t haiv tajm.
+         {22292}{22360}Tuu joor leyft theye’z e windou.|Gou tuu it.
+         {22414}{22451}Oupen it.
+         {22471}{22514}Tejk the skaifeld tuu the ruuf.
+         {22520}{22582}Nou wej! Nou wej!|This iz krejzi!
+         {22588}{22645}Theye aar tuu wejz|aut ov this bildinn.
+         {22651}{22742}Wan iz thait skaifeld.|The athe iz in theye kastedi.
+         {22748}{22825}Juu tejk e chaans ajthe wej.|AJ lyv it tuu juu.
+         {22911}{22953}This iz insejn!
+         {22981}{23026}Waj iz this haipeninn tuu my?
+         {23033}{23072}#what’d AJ duu?
+         {23081}{23147}Aj’m noubedi.|AJ didn’t duu eynixinn.
+         {23161}{23196}Aj’m gone daj.
+         {23431}{23456}Shit!
+         {23942}{23969}Ou, shit!
+         {24088}{24131}AJ kaan’t duu this.
+         {24439}{24459}Shit.
+         {25640}{25756}Aiz juu kain sy, wy’v haid aue aj|on juu foor sam tajm nau, Mr. Aindesen.
+         {25787}{25851}It symz thait juu’v byn livinn. . .
+         {25857}{25908}. . .tuu lajvz.
+         {25942}{26002}In wan lajf,|ju’e Tomes E. Aindesen. . .
+         {26008}{26088}. . .prougraim rajte foor|e rispeyktebl softweye kampeni.
+         {26113}{26192}Juu haiv e soushl sikjuriti nambe.|Juu pej joor taiksiz.
+         {26203}{26233}Aind juu. . .
+         {26271}{26358}. . .heylp joor laindlejdi|kairi aut heer gaarbiq.
+         {26418}{26493}The athe lajf iz livd in kempjuute. . .
+         {26500}{26571}. . .weye juu gou baj|the haike ejlies "Nyou" . . .
+         {26577}{26692}. . .aind aar gilti ov veerchueli eyvri|kempjuute krajm wy haiv e loo foor.
+         {26723}{26770}Wan ov thyz lajvz. . .
+         {26776}{26820}. . .haiz e fjuuche.
+         {26828}{26876}Aind wan ov theym daz not.
+         {26965}{27057}Aj’m gouinn tuu by aiz foorxkaminn|aiz AJ kain by, Mr. Aindesen.
+         {27081}{27113}Ju’e hie. . .
+         {27121}{27175}. . .bikoz wy nyd joor heylp.
+         {27262}{27334}Wy nou thait juu’v byn kontaiktid|baj e seertn. . .
+         {27340}{27383}. . .indiviquel.
+         {27405}{27502}E main huu koolz himseylf "Moorfies. "
+         {27526}{27622}Woteyve juu xink juu nou|ebaut this main iz ireylivent.
+         {27628}{27686}Hy iz kensided baj meyni ooxoritiz. . .
+         {27692}{27765}. . .tuu by the moust dejnqeres main elajv.
+         {27831}{27860}Maj kolygz. . .
+         {27870}{27940}. . .bilyv thait AJ aim wejstinn|maj tajm with juu.
+         {27947}{28029}Bat AJ bilyv juu wish|tuu duu the rajt xinn.
+         {28036}{28120}Wi’e wilinn tuu wajp the slejt klyn. . .
+         {28129}{28180}. . .giv juu e freysh staart.
+         {28192}{28262}Ool wi’e aaskinn in riteern|iz joor kouoperejshn. . .
+         {28268}{28352}. . .in brinninn|e noun teyrerist tuu qastis.
+         {28385}{28415}Jeye.
+         {28446}{28496}Thait saundz lajk e rili gud dyl.
+         {28535}{28577}Bat AJ got e beyte wan.
+         {28583}{28619}Hau ebaut. . .
+         {28629}{28677}. . .AJ giv juu the finnge. . .
+         {28739}{28788}. . .aind juu giv my maj foun kool.
+         {28840}{28884}Mr. Aindesen. . .
+         {28989}{29009}. . .juu disepojnt my.
+         {29015}{29078}Juu kaan’t skeye my|with this geystaapou kraip.
+         {29084}{29117}AJ nou maj rajts.
+         {29123}{29159}AJ wont maj foun kool.
+         {29173}{29225}Teyl my, Mr. Aindesen. . .
+         {29246}{29280}. . .wot gud iz e foun kool. . .
+         {29286}{29372}. . .if ju’e anejbl tuu spyk?
+         {30182}{30235}Ju’e gouinn tuu heylp as,|Mr. Aindesen. . .
+         {30252}{30275}. . .weythe juu wont tuu. . .
+         {30281}{30302}. . .oor not.
+         {31700}{31778}This lajn iz taipt,|sou AJ mast/maist by bryf.
+         {31784}{31887}Thej got tuu juu feerst, bat thej’v|andereystimejtid hau impoortent juu aar.
+         {31893}{31937}If thej njuu wot AJ nou...
+         {31943}{31991}... juu wud probebli by deyd.
+         {32015}{32104}Wot aar juu tookinn ebaut?|Wot iz haipeninn tuu my?
+         {32110}{32226}Juu aar the Wan, Nyou. Juu mej haiv|speynt the laast fjuu jiez(jeerz)...
+         {32232}{32303}...lukinn foor my, bat Aj’v speynt|maj intaje lajf...
+         {32309}{32345}...lukinn foor juu.
+         {32382}{32434}Nau, duu juu stil wont tuu myt?
+         {32457}{32526}-Jeys.|-Theyn gou tuu the Adams Stryt briq.
+         {32771}{32800}Geyt in.
+         {33094}{33114}Wot’s this?
+         {33120}{33181}It’s neysiseri, Nyou.|Foor aue preteykshn.
+         {33187}{33211}From wot?
+         {33217}{33239}From juu.
+         {33276}{33311}Tejk of joor sheert.
+         {33323}{33343}Stop the kaar.
+         {33453}{33481}Lisen, kopetop.
+         {33487}{33535}Wy don’t haiv tajm foor 20 Kweystshens.
+         {33547}{33604}Rajt nau, theye’z ounli wan ruul:
+         {33611}{33643}Aue wej. . .
+         {33651}{33677}. . .oor the hajwej.
+         {33839}{33860}Fajn.
+         {33905}{33964}Plyz, Nyou, juu haiv tuu trast my.
+         {33978}{34041}-Waj?|-Bikoz juu haiv byn daun theye.
+         {34059}{34088}Juu nou thait roud.
+         {34112}{34152}Juu nou igzaiktly weye it eyndz.
+         {34204}{34258}Aind AJ nou thait’s|not weye juu wont tuu by.
+         {34598}{34635}Epok, lajts.
+         {34695}{34747}Laj baik.|Lift ap joor sheert.
+         {34793}{34813}Wot’s thait?
+         {34821}{34847}Ju’e bagid.
+         {35033}{35068}Traj aind rilaiks.
+         {35219}{35247}Kam on.
+         {35276}{35297}Kam on.
+         {35340}{35362}It’s on the muuv.
+         {35406}{35435}Kam on, juu shit.
+         {35479}{35534}-Ju’e gone luuz it.|-Nou, Aj’m not.
+         {35540}{35563}Klie!
+         {35769}{35820}Qyzes Krajst!|Thait xinn's riel?!
+         {36629}{36661}This iz it.
+         {36741}{36800}Leyt my giv juu wan pys ov edvajs.
+         {36823}{36863}By onist.
+         {36901}{36954}Hy nouz moor thain juu kain imaiqin.
+         {37163}{37195}Ait laast.
+         {37232}{37258}Weylkem, Nyou.
+         {37287}{37333}Aiz juu nou daut haiv geyst. . .
+         {37339}{37369}. . .AJ aim Moorfies.
+         {37394}{37432}It’s en one tuu myt juu.
+         {37443}{37468}Nou. . .
+         {37482}{37513}. . .the one iz majn.
+         {37535}{37595}Plyz, kam. Sit.
+         {37957}{37996}AJ imaiqin. . .
+         {38006}{38072}. . .thait rajt nau ju’e fylinn|e bit lajk Ailis. . .
+         {38113}{38171}. . .tamblinn daun the raibit houl?
+         {38193}{38217}Juu kud sej thait.
+         {38239}{38302}AJ kain sy it in joor ajz.
+         {38316}{38395}Juu haiv the luk ov e main|huu ekseypts wot hy syz. . .
+         {38401}{38455}. . .bikoz hy’z ikspeyktinn tuu wejk ap.
+         {38489}{38552}Ajronikeli, this iz not|faar from the truux.
+         {38568}{38628}Duu juu bilyv in fejt, Nyou?
+         {38635}{38656}Nou.
+         {38667}{38690}Waj not?
+         {38696}{38763}AJ don’t lajk the ajdie thait|Aj’m not in kontroul/kentroul ov maj lajf.
+         {38789}{38869}AJ nou igzaiktly wot juu myn.
+         {38972}{39029}Leyt my teyl juu waj ju’e hie.
+         {39054}{39091}Juu nou samxinn.
+         {39104}{39143}Wot juu nou,|juu kaan’t iksplejn.
+         {39155}{39193}Bat juu fyl it.
+         {39207}{39253}Juu feylt it joor intaje lajf.
+         {39267}{39367}Samxinn’z ronn with the weerld.|Juu don’t nou wot, bat it’s theye.
+         {39379}{39432}Lajk e splinte in joor majnd. . .
+         {39438}{39483}. . .drajvinn juu maid.
+         {39505}{39571}It iz this fylinn|thait haiz broot juu tuu my.
+         {39632}{39676}Duu juu nou wot|Aj’m tookinn ebaut?
+         {39720}{39752}The Mejtriks?
+         {39812}{39852}Duu juu wont tuu nou. . .
+         {39863}{39911}. . .wot it iz?
+         {39968}{40013}The Mejtriks iz eyvriweye.
+         {40019}{40060}It iz ool eraund as.
+         {40066}{40113}Yven nau, in this veyri rum.
+         {40133}{40186}Juu kain sy it weyn juu|luk aut joor windou. . .
+         {40192}{40248}. . .oor weyn juu teern on joor teyliviqhn.
+         {40258}{40319}Juu kain fyl it weyn juu gou tuu weerk. . .
+         {40356}{40396}. . .weyn juu gou tuu cheerch. . .
+         {40406}{40456}. . .weyn juu pej joor taiksiz.
+         {40483}{40553}It iz the weerld thait haiz byn|puld ouve joor ajz. . .
+         {40559}{40597}. . .tuu blajnd juu from the truux.
+         {40650}{40680}Wot truux?
+         {40782}{40819}Thait juu aar e slejv.
+         {40855}{40910}Lajk eyvriwan eyls,|juu weer boorn inte bondiq. . .
+         {40916}{41028}. . .boorn inte e prizen thait juu kainot|smeyl oor tejst oor tach.
+         {41035}{41066}E prizen. . .
+         {41072}{41100}. . .foor joor majnd.
+         {41267}{41323}Anfoorchunitli, nou wan kain by. . .
+         {41331}{41388}. . .tould wot the Mejtriks iz.
+         {41471}{41516}Juu haiv tuu sy it foor jeseylf.
+         {41744}{41799}This iz joor laast chaans.
+         {41805}{41861}Aafte this, theye iz nou teerninn baik.
+         {41872}{41908}Juu tejk the bluu pil. . .
+         {41915}{41988}. . .the stoori eyndz, juu wejk ap|in joor beyd aind bilyv. . .
+         {41994}{42037}. . .woteyve juu wont tuu bilyv.
+         {42043}{42075}Juu tejk the reyd pil. . .
+         {42081}{42128}. . .juu stej in Wandelaind. . .
+         {42140}{42205}. . .aind AJ shou juu hau dyp|the raibit houl gouz.
+         {42442}{42471}Rimeymbe. . .
+         {42491}{42564}. . .ool Aj’m oferinn iz the truux.|Naxinn moor.
+         {42907}{42939}Folou my.
+         {43000}{43040}Epok, aar wy on-lajn?
+         {43046}{43079}Oolmoust.
+         {43159}{43208}Tajm iz oolwiz egeynst as.
+         {43217}{43253}Plyz tejk e syt theye.
+         {43689}{43730}Juu did ool this?
+         {43829}{43877}The pil juu tuk iz|paart ov e trejs prougraim.
+         {43895}{44006}It disrapts joor kairie signelz|sou wy kain pinpojnt joor loukejshn.
+         {44019}{44044}Wot daz thait myn?
+         {44058}{44110}It myns bakl joor|syt beylt, Dorexi. . .
+         {44118}{44150}. . .bikoz Kainzes. . .
+         {44156}{44181}. . .iz gouinn baj-baj.
+         {45090}{45123}Did juu. . .?
+         {45387}{45485}Haiv juu eyve haid e drym, Nyou,|thait juu weer sou shue woz riel?
+         {45520}{45582}Wot if juu weer anejbl|tuu wejk from thait drym?
+         {45588}{45648}Hau wud juu nou the diferens|bitwyn the drym weerld. . .
+         {45663}{45697}. . .aind the riel weerld?
+         {45736}{45765}This kaan’t by.
+         {45771}{45793}By wot?
+         {45810}{45846}By riel?
+         {45941}{45972}Gouinn inte reyplikejshn.
+         {45983}{46004}Stil naxinn.
+         {46018}{46047}It’s kould.
+         {46053}{46086}It’s kould!
+         {46179}{46219}Taink, wi’l nyd e signel suun.
+         {46256}{46276}AJ got e fibrilejshn.
+         {46282}{46319}Epok, loukejshn.
+         {46325}{46360}Taargitinn oolmoust theye.
+         {46439}{46473}Hy’z gouinn inte ereyst.
+         {46479}{46499}Lok. AJ got him!
+         {46504}{46539}Nau, Taink, nau!
+         {50787}{50812}Weylkem. . .
+         {50821}{50866}. . .tuu the riel weerld.
+         {50901}{50944}Wy’v dan it, Triniti.
+         {50951}{50988}Wy faund him.
+         {50994}{51060}-AJ houp ju’e rajt.|-AJ don’t haiv tuu houp.
+         {51075}{51112}AJ nou it.
+         {51237}{51261}Aim AJ deyd?
+         {51274}{51325}Faar from it.
+         {51661}{51694}Hy stil nydz e lot ov weerk.
+         {51732}{51757}Wot aar juu duinn?
+         {51764}{51817}Joor maslz aitrefid.|Wi’e rybildinn theym.
+         {51831}{51868}Waj duu maj ajz heert?
+         {51885}{51930}Juu’v neyve juuzd/juust tuu theym bifoor.
+         {52025}{52045}Reyst, Nyou.
+         {52051}{52090}The aansez aar kaminn.
+         {53879}{53916}Moorfies, wot’s haipent tuu my?
+         {53935}{53957}Wot iz this plejs?
+         {53964}{54028}Moor impoortent thain "wot" iz "weyn. "
+         {54045}{54065}Weyn?
+         {54070}{54119}Juu bilyv it’s the jie 1 999. . .
+         {54125}{54178}. . .weyn in faikt, it’s klouse tuu 21 99.
+         {54206}{54272}AJ kaan’t teyl juu igzaiktly|wot jie it iz. . .
+         {54278}{54317}. . .bikoz wy onistli don’t nou.
+         {54329}{54397}Theye’z naxinn AJ kain sej|thait wil iksplejn it foor juu.
+         {54403}{54430}Kam with my.
+         {54438}{54468}Sy foor jeseylf.
+         {54482}{54523}This iz maj ship.
+         {54531}{54601}The Neybjukedneyze.|It’s e hovekraaft.
+         {54669}{54710}This iz the mejn deyk.
+         {54855}{54878}This iz the koor. . .
+         {54939}{55028}. . .weye wy brodkaast/broodkaast aue pajret signel|aind haik inte the Mejtriks.
+         {55110}{55186}Moust ov maj kruu juu oolreydi nou.
+         {55306}{55339}This iz Epok. . .
+         {55359}{55390}. . .Swich. . .
+         {55429}{55456}. . .aind Sajfe.
+         {55463}{55551}The wans juu don’t nou:|Taink aind hiz big brathe, Douze.
+         {55573}{55630}The litl wan bihajnd juu iz Maus.
+         {55735}{55813}Juu wontid tuu nou|wot the Mejtriks iz?
+         {55838}{55866}Triniti.
+         {56371}{56408}Traj tuu rilaiks.
+         {56526}{56569}This wil fyl e litl wied.
+         {56857}{56884}This. . .
+         {56894}{56935}. . .iz the Konstrakt/kenstrakt.
+         {56945}{56996}It’s aue loudinn prougraim.
+         {57002}{57060}Wy kain loud eynixinn, from klouthinn. . .
+         {57067}{57100}. . .tuu ikwipment. . .
+         {57107}{57138}. . .weypens. . .
+         {57154}{57197}. . .trejninn simjulejshns. . .
+         {57207}{57267}. . .eynixinn wy nyd.
+         {57335}{57392}Rajt nau wi’e insajd|e kempjuute prougraim?
+         {57400}{57445}Iz it rili sou haard tuu bilyv?
+         {57458}{57520}Joor klouth aar diferent.|The plagz in joor bodi aar gon.
+         {57550}{57599}Joor heye haiz chejnqid.
+         {57609}{57689}Joor epirens nau iz wot wy kool|"rizidjuel seylf-imiq. "
+         {57706}{57768}It iz the mentl preqeykshn|ov joor diqitel seylf.
+         {57910}{57936}This izn’t riel?
+         {57943}{57980}Wot iz "riel"?
+         {57989}{58042}Hau duu juu difajn "riel"?
+         {58050}{58095}If ju’e tookinn ebaut|wot juu kain fyl. . .
+         {58102}{58159}. . .wot juu kain smeyl, tejst aind sy. . .
+         {58166}{58258}. . .theyn "riel" iz simpli ileyktrikel|signelz inteerpritid baj joor brejn.
+         {58359}{58416}This iz the weerld thait juu nou.
+         {58451}{58523}The weerld aiz it woz ait the eynd|ov the 20th seyncheri.
+         {58581}{58684}It igzists nau ounli aiz paart ov|e njurel-interaiktiv simjulejshn. . .
+         {58691}{58720}. . .thait wy kool the Mejtriks.
+         {58830}{58898}Juu’v byn livinn|in e drym weerld, Nyou.
+         {58921}{58947}This iz the weerld. . .
+         {58955}{58998}. . .aiz it igzists tedej.
+         {59310}{59380}Weylkem tuu "the deyzet/dizeert. . .
+         {59402}{59439}. . .ov the riel. "
+         {59521}{59577}Wy haiv ounli bits aind pysiz|ov infemejshn.
+         {59584}{59674}Bat wot wy nou foor seertn|iz thait in the eerli 21 st seyncheri. . .
+         {59681}{59759}. . .ool ov mainkajnd woz juunajtid|in seylibrejshn.
+         {59765}{59878}Wy maarveld ait aue oun maignifisens|aiz wy gejv beerx tuu #AL.
+         {59898}{59924}#AL.
+         {59950}{59983}Juu myn aartifishel inteyliqens.
+         {59989}{60094}E sinngjule konshesnis thait spoont|en intaje rejs ov meshyn.
+         {60115}{60197}Wy don’t nou huu strak feerst,|as oor theym.
+         {60208}{60284}Bat wy nou thait it woz as|thait skoorchid the skaj.
+         {60325}{60376}Thej weer dipeyndent on soule paue. . .
+         {60383}{60463}. . .aind it woz bilyv thait|thej wud by anejbl tuu sevajv. . .
+         {60471}{60555}. . .withaut en eyneqi soors|aiz ebandent aiz the san.
+         {60561}{60678}Xruuaut hjuumen histri, wy haiv byn|dipeyndent on meshyn tuu sevajv.
+         {60713}{60814}Fejt, it symz, iz not|withaut e seyns ov ajreni.
+         {60891}{60996}The hjuumen bodi qeynerejts moor|bajouileyktrisiti thain e 1 20-voult baiteri.
+         {61003}{61102}Aind ouve 25,000 BTUs ov bodi hyt.
+         {61148}{61199}Kembajnt with e foorm ov fjuuqhn. . .
+         {61208}{61323}. . .the meshyn haid faund ool the eyneqi|thej wud eyve nyd.
+         {61421}{61510}Theye aar fyldz, Nyou,|eyndlis fyldz. . .
+         {61517}{61595}. . .weye hjuumen byinnz|aar nou lonne boorn.
+         {61612}{61655}Wy aar groun.
+         {61801}{61862}Foor the lonnist tajm,|AJ wudn’t bilyv it.
+         {61869}{61933}Aind theyn AJ soo the fyldz|with maj oun ajz. . .
+         {61965}{62004}. . .wochid theym likwifaj the deyd. . .
+         {62010}{62090}. . .sou thej kud by feyd intrevynes|tuu the livinn.
+         {62103}{62204}Aind staindinn theye,|fejsinn the pjue, horifajinn prisiqhn. . .
+         {62211}{62281}. . .AJ kejm tuu rielajz|the obviesnis ov the truux.
+         {62344}{62387}Wot iz the Mejtriks?
+         {62416}{62440}Kontroul/kentroul.
+         {62474}{62554}The Mejtriks iz e kempjuute-qeynerejtid|drym weerld. . .
+         {62574}{62648}. . .bilt tuu kyp as ande kontroul/kentroul. . .
+         {62676}{62752}. . .in oorde tuu chejnq e hjuumen byinn. . .
+         {62767}{62794}. . .inte this.
+         {62828}{62854}Nou.
+         {62894}{62931}AJ don’t bilyv it.
+         {62941}{62969}It’s not posebl.
+         {62984}{63093}AJ didn’t sej it wud by yzi, Nyou.|AJ qast seyd it wud by the truux.
+         {63100}{63120}Stop!
+         {63144}{63172}Leyt my aut!
+         {63190}{63235}Leyt my aut! AJ wont aut!
+         {63283}{63347}-Yzi, Nyou. Yzi.|-Geyt this xinn aut ov my.
+         {63353}{63392}Geyt this xinn aut ov my!
+         {63436}{63471}Don’t tach my!
+         {63478}{63517}Stej ewej from my!
+         {63527}{63562}AJ don’t bilyv it.
+         {63580}{63608}AJ don’t bilyv it.
+         {63615}{63638}AJ don’t bilyv it.
+         {63657}{63706}-Hy’z gone pop.|-Bryth, Nyou.
+         {63720}{63740}Qast bryth.
+         {64182}{64225}AJ kaan’t gou baik, kain l?
+         {64248}{64270}Nou.
+         {64299}{64327}Bat if juu kud. . .
+         {64348}{64383}. . .wud juu rili wont tuu?
+         {64444}{64477}AJ ou juu en epoleqi.
+         {64491}{64524}Wy haiv e ruul.
+         {64535}{64615}Wy neyve fry e majnd|wans it’s rycht e seertn ejq.
+         {64622}{64642}It’s dejnqeres.
+         {64660}{64701}The majnd haiz trabl leytinn gou.
+         {64707}{64761}Aj’v syn it bifoor, aind Aj’m sori.
+         {64787}{64836}AJ did wot AJ did bikoz. . .
+         {64854}{64889}. . .AJ haid tuu.
+         {65091}{65188}Weyn the Mejtriks woz feerst bilt,|theye woz e main boorn insajd. . .
+         {65201}{65291}. . .huu haid the ebiliti|tuu chejnq woteyve hy wontid. . .
+         {65301}{65371}. . .tuu rymejk the Mejtriks aiz hy soo fit.
+         {65413}{65495}It woz hy huu fryd the feerst ov as. . .
+         {65517}{65556}. . .toot as the truux.
+         {65591}{65665}Aiz lonn aiz the Mejtriks igzists. . .
+         {65673}{65722}. . .the hjuumen rejs wil neyve by fry.
+         {65824}{65861}Aafte hy dajd. . .
+         {65879}{65943}. . .the Orekl profisajd hiz riteern. . .
+         {65957}{66033}. . .aind thait hiz kaminn wud hejl|the distrakshn ov the Mejtriks. . .
+         {66040}{66079}. . .eynd the woor. . .
+         {66088}{66116}. . .brinn frydem tuu aue pypel.
+         {66150}{66261}Thait iz waj theye aar thouz ov as huu|speynt aue lajvz seerchinn the Mejtriks. . .
+         {66269}{66306}. . .lukinn foor him.
+         {66365}{66414}AJ did wot AJ did bikoz. . .
+         {66454}{66505}. . .AJ bilyv thait seerch iz ouve.
+         {66627}{66660}Geyt sam reyst.
+         {66676}{66719}Ju’e gouinn tuu nyd it.
+         {66789}{66809}Foor wot?
+         {66887}{66910}Joor trejninn.
+         {67350}{67391}Moorninn. Did juu slyp?
+         {67412}{67440}Juu wil tenajt.
+         {67450}{67487}AJ gairenty it.
+         {67523}{67568}Aj’m Taink. Aj’l by joor operejte.
+         {67580}{67637}-Juu don’t haiv eyni--|-Houlz? Noup.
+         {67660}{67773}My aind maj brathe, Douze, aar 1 00% pjue,|ould-faishnt, houmgroun hjuumen.
+         {67779}{67807}Boorn fry rajt hie. . .
+         {67821}{67852}. . .in the riel weerld.
+         {67859}{67898}Qeynjuin chajld ov Zajen.
+         {67919}{67977}-Zajen?|-If the woor woz ouve temorou. . .
+         {67984}{68017}. . .Zajen's weye the paarti wud by.
+         {68030}{68060}It’s e siti?
+         {68067}{68143}The laast hjuumen siti.|The ounli plejs wy haiv leyft.
+         {68181}{68210}Weye iz it?
+         {68253}{68276}Dyp andegraund. . .
+         {68283}{68334}. . .nie the Earth's koor,|weye it’s stil woorm.
+         {68374}{68419}Juu liv/lajv lonn inaf,|juu majt sy it.
+         {68473}{68588}Godaim! AJ gote teyl juu, Aj’m iksajtid|tuu sy wot ju’e kejpebl ov. . .
+         {68595}{68636}. . .if Moorfies iz rajt aind ool.
+         {68649}{68715}Wi’e not sepouzd tuu|took ebaut this, bat. . .
+         {68721}{68754}. . .if juu aar. . .
+         {68781}{68828}. . .it’s e veyri iksajtinn tajm.
+         {68854}{68918}Wy got e lot tuu duu.|Wy gote geyt tuu it.
+         {69013}{69083}Wi’e sepouzd tuu staart|with thyz prougraimz feerst.
+         {69107}{69189}Thait’s mejqe boorinn shit.|Leyt’s duu samxinn moor fan.
+         {69198}{69233}Hau ebaut. . .
+         {69271}{69312}. . .kombait trejninn?
+         {69458}{69493}"Quuqitsuu"?
+         {69514}{69553}Aj’m gouinn tuu leern quuqitsuu?
+         {69826}{69854}Houli shit!
+         {69861}{69916}"Hej, Majki, AJ xink hy lajks it. "
+         {69925}{69955}Hau ebaut sam moor?
+         {69962}{69992}Heyl, jeys.
+         {70048}{70068}Heyl, jeye.
+         {70365}{70385}Hau iz hy?
+         {70392}{70445}Teyn auez strejt.|Hy’z e meshyn.
+         {70713}{70746}AJ nou kann fuu.
+         {70791}{70811}Shou my.
+         {70853}{70894}This iz e spaarinn prougraim. . .
+         {70901}{70967}. . .simile tuu the prougraimd riailiti|ov the Mejtriks.
+         {70974}{71029}It haiz the sejm bejsik ruulz.|Lajk graiviti.
+         {71036}{71118}Thyz ruulz aar nou diferent|thain thouz ov e kempjuute sistim.
+         {71132}{71167}Sam ov theym kain by beynt.
+         {71173}{71193}Athez. . .
+         {71199}{71232}. . .kain by brouken.
+         {71248}{71270}Andestaind?
+         {71302}{71322}Theyn hit my. . .
+         {71336}{71362}. . .if juu kain.
+         {72311}{72322}Gud!
+         {72340}{72368}Aideptejshen.
+         {72375}{72404}Imprevajzejshn.
+         {72411}{72443}Bat joor wyknis. . .
+         {72449}{72482}. . .iz not joor teyknyk.
+         {72649}{72699}Moorfies iz fajtinn Nyou.
+         {74432}{74460}Hau did AJ byt juu?
+         {74618}{74644}Ju’e tuu faast.
+         {74657}{74689}Duu juu bilyv thait. . .
+         {74698}{74758}. . .maj byinn stronnge oor faaste. . .
+         {74764}{74852}. . .haiz eynixinn tuu duu|with maj maslz in this plejs?
+         {74949}{74992}Juu xink ju’e brythinn eye?
+         {75316}{75345}Egeyn!
+         {75620}{75678}Qyzes Krajst, hy’z faast!
+         {75684}{75737}Hiz njure-kineytiks|aar wej ebav noormel.
+         {75868}{75903}Wot aar juu wejtinn foor?
+         {75909}{75956}Ju’e faaste thain this.
+         {76009}{76062}Don’t xink juu aar.
+         {76068}{76108}Nou juu aar.
+         {76357}{76425}Kam on! Stop trajinn tuu hit my,|aind hit my!
+         {76662}{76704}AJ don’t bilyv it.
+         {76741}{76792}AJ nou wot ju’e trajinn tuu duu.
+         {76832}{76884}Aj’m trajinn tuu fry joor majnd, Nyou.
+         {76892}{76942}Bat AJ kain ounli shou juu the door.
+         {76956}{77002}Juu haiv tuu wook xruu it.
+         {77057}{77108}Taink, loud the qamp prougraim.
+         {77386}{77451}Juu haiv tuu leyt it ool gou, Nyou.|Fie. . .
+         {77464}{77516}. . .daut aind disbilyf.
+         {77544}{77609}Fry joor majnd.
+         {77997}{78038}Ouki-dokey.
+         {78088}{78116}Fry maj majnd.
+         {78130}{78154}Wot if hy mejks it?
+         {78160}{78225}-Nou wan's eyve mejd theye feerst qamp.|-AJ nou.
+         {78257}{78316}-Bat wot if hy daz?|-Hy woun’t.
+         {78336}{78356}Kam on.
+         {78362}{78390}Ool rajt.
+         {78401}{78450}Nou problem. Fry maj majnd.
+         {78469}{78536}Fry maj majnd. Nou problem. Rajt.
+         {79001}{79041}Wot daz thait myn?
+         {79050}{79094}It dazn’t myn eynixinn.
+         {79108}{79170}Eyvribodi foolz the feerst tajm.
+         {79181}{79212}Rajt, Trin?
+         {79708}{79771}-AJ xoot it wozn’t riel.|-Joor majnd mejks it riel.
+         {79849}{79903}If ju’e kild in the Mejtriks. . .
+         {79912}{79932}. . .juu daj hie?
+         {79947}{80006}The bodi kainot liv/lajv withaut the majnd.
+         {80737}{80818}AJ don’t rimeymbe juu eyve|brinninn my dine.
+         {80892}{80960}Theye iz samxinn ebaut him,|izn’t theye?
+         {80975}{81014}Ju’e e bilyve nau?
+         {81038}{81067}AJ kyp wanderinn. . .
+         {81073}{81161}. . .if Moorfies iz sou shue,|waj not tejk him tuu sy the Orekl?
+         {81183}{81253}Moorfies wil tejk him|weyn hy’z reydi.
+         {81488}{81525}The Mejtriks iz e sistim, Nyou.
+         {81567}{81598}Thait sistim iz aue eynemi.
+         {81613}{81669}Bat weyn ju’e insajd,|wot duu juu sy?
+         {81675}{81766}Biznismen, tychez,|loojez, kaarpintez.
+         {81777}{81839}The veyri majndz ov the pypel|wy aar trajinn tuu sejv.
+         {81845}{81916}Bat antil wy duu, thyz pypel aar|e paart ov thait sistim. . .
+         {81922}{81968}. . .aind thait mejks theym aue eynemi.
+         {81977}{82001}Juu haiv tuu andestaind. . .
+         {82007}{82087}. . .moust ov thyz pypel aar not|reydi tuu by anplagd.
+         {82093}{82131}Aind meyni ov theym aar sou ineert. . .
+         {82137}{82165}. . .sou houplisli dipeyndent|on the sistim. . .
+         {82165}{82195}. . .sou houplisli dipeyndent|on the sistim. . .
+         {82201}{82266}. . .thait thej wil fajt tuu preteykt it.
+         {82302}{82392}Weer juu liseninn tuu my oor lukinn|ait the wumen in the reyd dreys?
+         {82416}{82438}Luk egeyn.
+         {82468}{82494}Fryz it.
+         {82653}{82692}This izn’t the Mejtriks?
+         {82735}{82827}It’s enathe trejninn prougraim|dizajnt/dizajnd tuu tych juu wan xinn:
+         {82842}{82900}If juu aar not wan ov as,|juu aar wan ov theym.
+         {82913}{82980}-Wot aar thej?|-Seynshent prougraimz.
+         {82998}{83101}Thej kain muuv in aind aut ov eyni softweye|stil haardwajed tuu theye sistim.
+         {83110}{83191}Thait myns thait eyniwan|wy haiven’t anplagd. . .
+         {83199}{83231}. . .iz peteynshieli en ejqent.
+         {83254}{83298}Insajd the Mejtriks. . .
+         {83312}{83353}. . .thej aar eyvriwan. . .
+         {83361}{83402}. . .aind thej aar nou wan.
+         {83408}{83483}Wy haiv sevajvd baj hajdinn|aind raninn from theym. . .
+         {83489}{83528}. . .bat thej aar the gejtkypez.
+         {83534}{83605}Thej’e gaardinn ool the doorz|aind houldinn ool the kyz.
+         {83611}{83679}Suune oor lejte, samwan wil|haiv tuu fajt theym.
+         {83688}{83712}Samwan?
+         {83720}{83754}AJ woun’t laj tuu juu, Nyou.
+         {83765}{83881}Eyvri sinngl main oor wumen huu|haiz foot en ejqent haiz dajd.
+         {83887}{83944}Bat weye thej haiv fejld,|juu wil seksyd.
+         {83954}{83974}Waj?
+         {83980}{84035}Aj’v syn en ejqent panch|xruu e konkryt wool.
+         {84041}{84127}Meyn haiv eymptid intaje klips ait theym|aind hit naxinn bat eye.
+         {84133}{84244}Jeyt theye streynnx aind spyd aar stil|bejst in e weerld bilt on ruulz.
+         {84250}{84277}Bikoz ov thait. . .
+         {84283}{84364}. . .thej wil neyve by aiz stronn|oor aiz faast aiz juu kain by.
+         {84467}{84512}Wot aar juu teylinn my?
+         {84529}{84564}Thait AJ kain doq bulits?
+         {84612}{84645}Nou, Nyou.
+         {84657}{84727}Aj’m trajinn tuu teyl juu|thait weyn ju’e reydi. . .
+         {84748}{84781}. . .juu woun’t haiv tuu.
+         {84889}{84909}Wy got trabl.
+         {85362}{85395}Did Zajen seynd the worninn?
+         {85401}{85421}Nou, enathe ship.
+         {85499}{85530}Shit.
+         {85536}{85578}Skwidi’z swypinn in kwik.
+         {85585}{85605}Skwidi?
+         {85610}{85687}E seyntinel. E kilinn meshyn|dizajnt/dizajnd foor wan xinn.
+         {85693}{85722}Seerch aind distroj.
+         {85754}{85782}Seyt heer daun theye.
+         {86305}{86328}Hau aar wy duinn, Taink?
+         {86537}{86565}Paue of-lajn.
+         {86577}{86625}EMP aarmd. . .
+         {86637}{86674}. . .aind reydi.
+         {86681}{86726}Ileyktremaigneytik pals.
+         {86732}{86801}Disejblz eyni ileyktrikel sistim|in the blaast rejdies.
+         {86807}{86860}It’s the ounli weypen wy haiv|egeynst the meshyn.
+         {86999}{87019}Weye aar wy?
+         {87025}{87074}Theye ould seervis aind wejst sistimz.
+         {87111}{87131}Sjuuez.
+         {87136}{87201}Theye juuzd/juust tuu tuu by sitiz|thait spaint handredz ov majlz.
+         {87213}{87259}Nau thyz sjuuez aar|ool thait’s leyft.
+         {87265}{87297}Kwajet.
+         {88349}{88401}Juu skeyed the biqyzes aut ov my.
+         {88427}{88473}-Sori.|-It’s oukej.
+         {88543}{88563}Iz thait. . .?
+         {88569}{88607}The Mejtriks?
+         {88683}{88759}-Duu juu oolwiz luk ait it inkoudid?|-Weyl, juu haiv tuu.
+         {88765}{88839}The imiq trainzlejtez weerk|foor the konstrakt/kenstrakt prougraim.
+         {88845}{88927}Bat theye’z wej tuu mach infemejshn|tuu dykoud the Mejtriks.
+         {88933}{89004}Juu geyt juuzd/juust tuu tuu it.|AJ don’t yven sy the koud.
+         {89010}{89092}Ool AJ sy iz blond, bruuneyt, reydheyd.
+         {89120}{89153}Duu juu. . .
+         {89160}{89186}. . .wont e drink?
+         {89192}{89217}Shue.
+         {89302}{89337}Juu nou. . .
+         {89359}{89396}. . .AJ nou wot ju’e xinkinn.
+         {89402}{89453}Bikoz rajt nau Aj’m xinkinn|the sejm xinn.
+         {89460}{89540}Aikchueli, Aj’v byn xinkinn it|eyve sins AJ got hie.
+         {89586}{89658}Waj, ou, waj didn’t AJ tejk|the bluu pil?
+         {89955}{90001}Gud shit, hah?
+         {90009}{90038}Douze mejks it.
+         {90049}{90077}It’s gud foor tuu xinnz:
+         {90083}{90157}Dygryzinn eynqins aind|kilinn brejn seylz.
+         {90181}{90234}Sou kain AJ aask juu samxinn?
+         {90306}{90345}Did hy teyl juu waj hy did it?
+         {90408}{90452}Waj ju’e hie?
+         {90540}{90582}Qyzes!
+         {90611}{90657}Wot e majnd qob.
+         {90691}{90758}Sou ju’e hie tuu sejv the weerld.
+         {90794}{90844}Wot duu juu sej|tuu samxinn lajk thait?
+         {90968}{91001}E litl pys ov edvajs.
+         {91044}{91078}Juu sy en ejqent. . .
+         {91086}{91141}. . .juu duu wot wy duu:
+         {91149}{91186}Ran.
+         {91194}{91236}Juu ran joor ais of.
+         {91410}{91451}Xainks foor the drink.
+         {91564}{91592}Swyt drymz.
+         {91688}{91770}Duu wy haiv e dyl, Mr. Reagan?
+         {91786}{91813}Juu nou. . .
+         {91847}{91906}. . .AJ nou this stejk dazn’t igzists.
+         {91930}{91996}AJ nou thait weyn AJ put it|in maj maux/mauth. . .
+         {92002}{92076}. . .the Mejtriks iz teylinn maj brejn|thait it iz. . .
+         {92083}{92110}. . .quusi. . .
+         {92117}{92158}. . .aind dilishes.
+         {92228}{92258}Aafte najn jiez(jeerz). . .
+         {92283}{92320}. . .juu nou wot AJ rielajz?
+         {92508}{92537}Ignerens iz blis.
+         {92658}{92702}Theyn wy haiv e dyl.
+         {92762}{92808}AJ don’t wont tuu rimeymbe naxinn.
+         {92814}{92834}Naxinn.
+         {92847}{92875}Juu andestaind?
+         {92972}{93015}Aind AJ wont tuu by rich.
+         {93047}{93112}Juu nou, samwan impoortent.
+         {93148}{93175}Lajk en aikte.
+         {93204}{93279}Woteyve juu wont, Mr. Reagan.
+         {93331}{93368}Oukej.
+         {93377}{93435}Juu geyt maj bodi|baik in e paue plaant. . .
+         {93444}{93486}. . .reinsert my inte the Mejtriks. . .
+         {93494}{93528}. . .Aj’l geyt juu wot juu wont.
+         {93534}{93582}Aikseys koudz tuu the Zajen mejnfrejm.
+         {93588}{93640}Nou. AJ tould juu, AJ don’t nou theym.
+         {93711}{93759}AJ kain geyt juu the main huu daz.
+         {93777}{93820}Moorfies.
+         {94062}{94145}Hie juu gou, badi.|Breykfest ov chaimpien.
+         {94177}{94244}Klous/klouz joor ajz, it fylz|lajk ju’e ytinn rani eygz.
+         {94250}{94270}Oor e boul ov snot.
+         {94303}{94341}Juu nou wot it rimajndz my ov?
+         {94385}{94441}Tastee Wyt. Did juu|eyve yt Tastee Wyt?
+         {94456}{94497}Nou, bat teyknikeli,|najthe did juu.
+         {94503}{94552}Thait’s igzaiktly maj pojnt. Igzaiktly.
+         {94558}{94591}Bikoz juu haiv tuu wande. . .
+         {94597}{94675}. . .hau duu the meshyn rili nou|wot Tastee Wyt tejstid lajk?
+         {94681}{94715}Mejbi thej got it ronn.
+         {94721}{94798}Mejbi wot AJ xink Tejst e Wyt|tejstid lajk aikchueli tejstid lajk. . .
+         {94805}{94853}. . .outmyl oor tjuune fish.
+         {94862}{94930}Thait mejks juu wande.|Tejk chikin, foor igzaampl.
+         {94936}{94984}Mejbi thej didn’t nou|wot tuu mejk it tejst lajk. . .
+         {94990}{95039}. . .wich iz waj it tejsts|lajk eyvrixinn.
+         {95045}{95088}-Aind mejbi thej--|-Shat ap.
+         {95127}{95162}It’s e sinngl-seyld proutyn. . .
+         {95168}{95241}. . .kembajnt with sinxeytik emyns,|vitemins aind minerelz.
+         {95247}{95277}Eyvrixinn the bodi nydz.
+         {95283}{95352}It dazn’t haiv eyvrixinn|the bodi nydz.
+         {95418}{95492}AJ andestaind juu’v ran xruu|the ejqent trejninn prougraim.
+         {95517}{95566}Juu nou, AJ rout thait prougraim.
+         {95573}{95604}Hie it kamz.
+         {95610}{95657}-Wot did juu xink ov heer?|-Ov huu?
+         {95666}{95739}The wumen in the reyd dreys.|AJ dizajnt/dizajnd heer.
+         {95747}{95813}Shy dazn’t took veyri mach. . .
+         {95819}{95914}. . .bat if juu’d lajk tuu myt heer,|AJ kain erejnq e moor peersnel miljuu.
+         {95920}{95953}The diqitel pimp haard ait weerk.
+         {95959}{96013}Pej nou eteynshn tuu|thyz hipekrits, Nyou.
+         {96044}{96088}Tuu dinaj aue oun impalsiz. . .
+         {96094}{96169}. . .iz tuu dinaj the veyri xinn|thait mejks as hjuumen.
+         {96215}{96248}Douze, weyn ju’e dan. . .
+         {96254}{96288}. . .brinn the ship ap tuu brodkaast/broodkaast deypx.
+         {96305}{96337}Wi’e gouinn in.
+         {96354}{96388}Aj’m tejkinn Nyou tuu sy heer.
+         {96492}{96512}Sy huu?
+         {96536}{96566}The Orekl.
+         {96698}{96735}Eyvriwan, plyz ebzeerv. . .
+         {96743}{96808}. . .the "faasen syt beylt"|aind "nou smoukinn" sajns aar on.
+         {96820}{96901}Sit baik aind inqoj joor flajt.
+         {97489}{97509}Wi’e in.
+         {97886}{97913}Wi’l by baik in en aue.
+         {98268}{98302}Anbilyvebl. . .
+         {98322}{98354}. . .izn’t it?
+         {98440}{98484}-God!|-Wot?
+         {98500}{98533}AJ juuzd/juust tuu tuu yt theye.
+         {98587}{98626}Rili gud nuudlz.
+         {98741}{98801}AJ haiv thyz meymeriz from maj lajf.
+         {98860}{98900}Nan ov theym haipent.
+         {98925}{98947}Wot daz thait myn?
+         {98953}{99006}Thait the Mejtriks kainot teyl juu|huu juu aar.
+         {99028}{99057}Bat en orekl kain?
+         {99068}{99097}Thait’s diferent.
+         {99219}{99240}Did juu gou tuu heer?
+         {99277}{99305}Jeys.
+         {99317}{99350}Wot did shy teyl juu?
+         {99428}{99464}Shy tould my. . . .
+         {99489}{99517}Wot?
+         {99608}{99640}Wi’e hie.
+         {99670}{99704}Kam with my.
+         {100183}{100247}Sou iz this the sejm orekl|thait mejd. . .
+         {100255}{100275}. . .the profisi?
+         {100281}{100385}Jeys. Shy’z veyri ould. Shy’z byn|with as sins the bigininn.
+         {100396}{100416}The bigininn?
+         {100421}{100444}Ov the Rizistens.
+         {100498}{100555}Aind shy nouz wot? Eyvrixinn?
+         {100604}{100650}Shy wud sej shy nouz inaf.
+         {100677}{100720}Aind shy’z neyve ronn.
+         {100773}{100849}Traj not tuu xink ov it|in teermz ov rajt aind ronn.
+         {100857}{100895}Shy iz e gajd, Nyou.
+         {100904}{100949}Shy kain heylp juu tuu fajnd the paax.
+         {100968}{100991}Shy heylpt juu?
+         {101051}{101083}Wot did shy teyl juu?
+         {101142}{101195}Thait AJ wud fajnd the Wan.
+         {101510}{101561}AJ tould juu AJ kain ounli|shou juu the door.
+         {101578}{101628}Juu haiv tuu wook xruu it.
+         {101719}{101745}Helou, Nyou.
+         {101751}{101791}Ju’e rajt on tajm.
+         {101981}{102072}Mejk jeseylf ait houm, Moorfies.|Nyou, kam with my.
+         {102208}{102246}Thyz aar the athe Peteynshelz.
+         {102252}{102289}Juu kain wejt hie.
+         {103268}{103329}Duu not traj aind beynd the spuun.
+         {103338}{103389}Thait’s imposebl.
+         {103409}{103505}Insteyd, ounli traj|tuu rielajz the truux.
+         {103518}{103551}Wot truux?
+         {103557}{103597}Theye iz nou spuun.
+         {103659}{103691}Theye iz nou spuun?
+         {103697}{103805}Theyn juu’l sy thait it iz not the spuun|thait beyndz. It iz ounli jeseylf.
+         {104189}{104225}The Orekl wil juu sy nau.
+         {104481}{104518}AJ nou ju’e Nyou.
+         {104533}{104561}By rajt with juu.
+         {104586}{104610}Ju’e the Orekl?
+         {104619}{104643}Binngou.
+         {104708}{104777}Not kwajt wot juu|weer ikspeyktinn, rajt?
+         {104802}{104854}Oolmoust dan.
+         {104914}{104953}Smeyl gud, don’t thej?
+         {105019}{105063}Aj’d aask juu tuu sit daun. . .
+         {105069}{105126}. . .bat ju’e not gouinn tuu eyniwej.
+         {105138}{105182}Aind don’t wari ebaut the vaaz.
+         {105187}{105207}Wot vaaz?
+         {105282}{105310}Thait vaaz.
+         {105333}{105358}Aj’m sori.
+         {105364}{105409}AJ seyd, don’t wari ebaut it.
+         {105437}{105484}Aj’l geyt wan ov maj kidz tuu fiks it.
+         {105499}{105528}Hau did juu nou?
+         {105577}{105668}Wot’s rili gouinn tuu bejk|joor nuudl lejte on iz. . .
+         {105676}{105747}. . .wud juu stil haiv brouken it|if AJ haidn’t seyd eynixinn?
+         {105862}{105908}Ju’e kjuute thain AJ xoot.
+         {105981}{106035}AJ kain sy waj shy lajks juu.
+         {106056}{106082}Huu?
+         {106088}{106132}Not tuu brajt, thou.
+         {106211}{106285}Juu nou waj Moorfies|broot juu tuu sy my.
+         {106336}{106364}Sou. . .
+         {106387}{106420}. . .wot duu juu xink?
+         {106464}{106506}Duu juu xink juu aar the Wan?
+         {106553}{106578}AJ don’t nou.
+         {106660}{106694}Juu nou wot thait myns?
+         {106714}{106742}It’s Laitin.
+         {106751}{106804}Myns, "Nou thajseylf. "
+         {106839}{106886}Aj’l leyt juu in on e litl sykrit.
+         {106940}{107032}Byinn the Wan iz qast|lajk byinn in lav.
+         {107049}{107118}Nou wan kain teyl juu ju’e in lav.|Juu qast nou it. . .
+         {107124}{107151}. . .xruu aind xruu.
+         {107159}{107208}Boolz tuu bouns.
+         {107269}{107289}Weyl. . .
+         {107336}{107386}. . .Aj’d beyte haiv e luk ait juu.
+         {107418}{107454}Oupen joor maux/mauth. Sej, "Aa. "
+         {107799}{107839}Oukej. . . .
+         {107854}{107973}Nau Aj’m sepouzd tuu sej,|"Hm, thait’s intristinn, bat. . . . "
+         {107985}{108012}Theyn juu sej:
+         {108033}{108057}Bat wot?
+         {108063}{108158}Bat juu oolreydi nou|wot Aj’m gouinn tuu teyl juu.
+         {108192}{108216}Aj’m not the Wan.
+         {108222}{108263}Sori, kid.
+         {108302}{108350}Juu got the gift. . .
+         {108374}{108427}. . .bat it luks lajk|ju’e wejtinn foor samxinn.
+         {108544}{108564}Wot?
+         {108569}{108639}Joor neykst lajf, mejbi. Huu nouz?
+         {108653}{108707}Thait’s the wej thyz xinnz gou.
+         {108728}{108749}Wot’s fani?
+         {108758}{108790}Moorfies.
+         {108873}{108914}Hy oolmoust haid my kenvinst.
+         {108920}{108947}AJ nou.
+         {108984}{109035}Pue Moorfies.
+         {109092}{109167}Withaut him, wi’e lost.
+         {109204}{109256}Wot duu juu myn, "withaut him"?
+         {109352}{109398}Aar juu shue juu wont|tuu hie this?
+         {109451}{109517}Moorfies bilyvz in juu, Nyou.
+         {109558}{109610}Aind nou wan, not juu, not yven my. . .
+         {109616}{109670}. . .kain kenvins him athewajz.
+         {109679}{109736}Hy bilyvz it sou blajndli. . .
+         {109743}{109847}. . .thait hy’z gouinn tuu saikrifajs|hiz lajf tuu sejv joorz.
+         {109853}{109873}Wot?
+         {109878}{109948}Ju’e gouinn tuu|haiv tuu mejk e chojs.
+         {109963}{110049}In the wan haind,|juu’l haiv Moorfies' lajf.
+         {110061}{110130}Aind in the athe haind,|juu’l haiv joor oun.
+         {110164}{110219}Wan ov juu iz gouinn tuu daj.
+         {110269}{110348}Wich wan wil by ap tuu juu.
+         {110381}{110427}Aj’m sori, kidou. AJ rili aim.
+         {110433}{110473}Juu haiv e gud soul.
+         {110499}{110564}Aind AJ hejt givinn|gud pypel baid njuuz.
+         {110639}{110674}Don’t wari ebaut it.
+         {110680}{110738}Aiz suun aiz juu|steyp autsajd thait door. . .
+         {110744}{110795}. . .juu’l staart fylinn beyte.
+         {110812}{110903}Juu’l rimeymbe juu don’t bilyv|in eyni ov this fejt kraip.
+         {110923}{110989}Ju’e in kontroul/kentroul ov joor oun lajf.
+         {111009}{111040}Rimeymbe?
+         {111085}{111109}Hie. . .
+         {111154}{111191}. . .tejk e kuki.
+         {111204}{111284}AJ promis, baj the tajm|ju’e dan ytinn it. . .
+         {111307}{111364}. . .juu’l fyl rajt aiz rejn.
+         {111585}{111617}Wot woz seyd. . .
+         {111632}{111667}. . .woz foor juu. . .
+         {111680}{111724}. . .aind foor juu eloun.
+         {112274}{112301}Thej’e on the wej.
+         {113020}{113040}Wot iz thait?
+         {113394}{113428}Ou, dejqhaa vuu.
+         {113512}{113538}Wot did juu qast sej?
+         {113544}{113580}Naxinn.|Qast dejqhaa vuu.
+         {113586}{113625}-Wot did juu sy?|-Wot haipent?
+         {113659}{113711}E blaik kait weynt paast as. . .
+         {113717}{113756}. . .theyn enathe qast lajk it.
+         {113762}{113799}Woz it the sejm kait?
+         {113827}{113851}Aj’m not shue.
+         {113870}{113890}Swich, Epok.
+         {113997}{114017}Wot iz it?
+         {114023}{114129}E dejqhaa vuu iz juuqhueli e glich in the|Mejtriks weyn thej chejnq samxinn.
+         {114210}{114230}Ou, maj God.
+         {114274}{114297}Leyt’s gou.
+         {114423}{114465}Thej kat the haard lajn.|It’s e traip! Geyt aut!
+         {114607}{114627}Ou, nou.
+         {115599}{115658}Thait’s wot thej chejnqid.|Wi’e traipt.
+         {115664}{115709}By kaam. Giv my joor foun.
+         {115715}{115752}Thej’l by ejbl tuu traik it.
+         {115758}{115792}Wy haiv nou chojs.
+         {115826}{115855}Operejte.
+         {115863}{115931}Fajnd e strakcherel drooinn ov|this bildinn. Fajnd it faast.
+         {116119}{116181}-Got it!|-AJ nyd the mejn weyt-wool.
+         {116259}{116279}Ejtx floor.
+         {116284}{116322}Thej’e on the ejtx floor.
+         {116329}{116364}Swich, strejt eheyd.
+         {116557}{116611}AJ houp the Orekl|gejv juu sam gud njuuz.
+         {116807}{116843}Nau leyft. Thait’s it.
+         {116850}{116875}Gud.
+         {117108}{117139}Weye aar thej?
+         {118588}{118616}Thej’e in the woolz.
+         {118651}{118679}In the woolz!
+         {119192}{119212}It’s en ejqent!
+         {119447}{119471}Juu mast/maist geyt Nyou aut!
+         {119479}{119523}Hy’z ool thait maitez!
+         {119530}{119559}Nou, Moorfies! Don’t!
+         {119565}{119585}Triniti, gou!
+         {119606}{119639}Gou!
+         {119788}{119834}-Wy kaan’t lyv him!|-Wy haiv tuu!
+         {120440}{120460}Kam on!
+         {120582}{120646}The grejt Moorfies.|Wy myt ait laast.
+         {120682}{120710}Aind juu aar?
+         {120716}{120758}E Smix.
+         {120764}{120795}Ejqent Smix.
+         {120809}{120858}Juu ool luk the sejm tuu my.
+         {122192}{122223}Tejk him.
+         {122540}{122584}-Operejte.|-AJ nyd en eyksit, faast.
+         {122634}{122704}Theye woz en aiksident.|Godaim kaar aiksident.
+         {122712}{122755}Ool ov e sadn, buum.
+         {122761}{122794}Sambedi ap theye stil lajks my.
+         {122800}{122830}AJ got juu.
+         {122842}{122888}Qast geyt my aut ov hie faast.
+         {122894}{122958}Nierist eyksit, Frainklin aind Iri.|En ould TYVY ripeye shop.
+         {122964}{122989}Rajt.
+         {123064}{123102}-Operejte.|-Taink, it’s my.
+         {123108}{123136}Iz Moorfies elajv?
+         {123145}{123176}Iz Moorfies elajv, Taink?
+         {123186}{123232}Jeys. Thej’e muuvinn him.|AJ don’t nou weye.
+         {123237}{123292}Hy’z elajv. Wy nyd en eyksit.
+         {123298}{123320}Ju’e not faar from Sajfe.
+         {123326}{123358}-Sajfe?|-AJ nou.
+         {123364}{123414}-AJ seynt him tuu Frainklin aind Iri.|-Got it.
+         {123632}{123661}Got him.
+         {123923}{123948}Weye aar thej?
+         {123954}{123984}Mejkinn the kool.
+         {124000}{124028}Gud.
+         {124353}{124373}Juu feerst.
+         {124449}{124469}Shit!
+         {124687}{124739}AJ don’t nou. It qast weynt deyd.
+         {125382}{125411}Helou, Triniti.
+         {125421}{125453}Sajfe? Weye’z Taink?
+         {125587}{125612}Juu nou. . .
+         {125653}{125704}. . .foor e lonn tajm. . .
+         {125733}{125803}. . .AJ xoot AJ woz in lav with juu.
+         {125821}{125870}AJ juuzd/juust tuu tuu drym ebaut juu.
+         {125896}{125961}Ju’e e bjuutifel wumen, Triniti.
+         {125967}{126024}Tuu baid xinnz haid tuu|teern aut this wej.
+         {126042}{126062}Juu kild theym.
+         {126074}{126110}-Wot?|-Ou, God.
+         {126116}{126150}Aj’m tajed, Triniti.
+         {126184}{126229}Aj’m tajed ov this woor. . .
+         {126236}{126304}. . .tajed ov fajtinn.|Aj’m tajed ov this ship. . .
+         {126312}{126423}. . .ov byinn kould, ov ytinn|the sejm Godaim guup eyvri dej.
+         {126481}{126503}Bat moust ov ool. . .
+         {126517}{126598}...l'm tajed ov thatjackoff|aind ool ov hiz bulshit.
+         {126625}{126656}Seprajz, ais’houl!
+         {126669}{126722}AJ beyt juu neyve soo this kaminn. . .
+         {126728}{126753}. . .did juu?
+         {126808}{126865}God, AJ wish AJ kud by theye. . .
+         {126879}{126915}. . .weyn thej brejk juu.
+         {126940}{127016}AJ wish AJ kud wook in|qast weyn it haipens. . .
+         {127033}{127074}. . .sou rajt theyn. . .
+         {127080}{127112}. . .juu’d nou it woz my.
+         {127129}{127152}Juu gejv theym Moorfies.
+         {127158}{127193}Hy lajd tuu as, Triniti.
+         {127207}{127243}Hy trikt as!
+         {127256}{127304}If juu haid tould as the truux. . .
+         {127310}{127379}. . .wy wud’v tould juu tuu shav|thait reyd pil ap joor ais!
+         {127385}{127436}Thait iz not truu, Sajfe.|Hy seyt as fry.
+         {127442}{127464}"Fry. "
+         {127470}{127511}Juu kool this fry?
+         {127569}{127629}Ool AJ duu iz wot hy teylz my tuu duu.
+         {127667}{127737}If AJ haid tuu chuuz bitwyn|thait aind the Mejtriks. . .
+         {127765}{127794}. . .AJ chuuz the Mejtriks.
+         {127800}{127840}The Mejtriks izn’t riel.
+         {127846}{127880}AJ disegry, Triniti.
+         {127886}{127940}AJ xink the Mejtriks. . .
+         {127948}{128010}. . .kain by moor riel thain this weerld.
+         {128062}{128122}Ool AJ duu iz pul the plag hie.
+         {128136}{128160}Bat theye. . .
+         {128173}{128228}... juu haiv tuu woch Epok daj.
+         {128414}{128455}Weylkem tuu the riel weerld.
+         {128463}{128485}Bat ju’e aut.
+         {128491}{128549}-Juu kaan’t gou baik.|-Thait’s wot juu xink.
+         {128555}{128591}Thej’l reinsert maj bodi.
+         {128597}{128684}AJ gou baik tuu slyp. Weyn AJ wejk ap,|AJ woun’t rimeymbe e xinn.
+         {128690}{128714}Baj the wej. . .
+         {128720}{128791}. . .if juu haiv eynixinn impoortent|tuu sej tuu Swich. . .
+         {128803}{128829}...sej it nau.
+         {128835}{128856}Nou, plyz don’t.
+         {128869}{128908}Not lajk this.
+         {128949}{128988}Not lajk this.
+         {129095}{129120}Tuu lejt.
+         {129129}{129169}Godaim juu, Sajfe!
+         {129175}{129220}Don’t hejt my, Triniti.
+         {129229}{129274}Aj’m qast e meysenqe.
+         {129284}{129360}Aind rajt nau,|Aj’m gouinn tuu pruuv it tuu juu.
+         {129386}{129426}If Moorfies woz rajt. . .
+         {129439}{129484}. . .theye’z nou wej|AJ kain pul this plag.
+         {129498}{129534}If Nyou’s the Wan...
+         {129546}{129590}... theyn theye’d haiv tuu by...
+         {129596}{129658}. . .sam kajnd ov e mirekl tuu stop my.
+         {129670}{129691}Rajt?
+         {129706}{129758}AJ myn, hau kain hy by the Wan. . .
+         {129765}{129786}. . .if hy’z deyd?
+         {129819}{129873}Juu neyve did aanse my bifoor...
+         {129880}{129936}...if juu baut/boot inte|Moorfies’ bulshit.
+         {129945}{130022}Kam on. Ool AJ wont|iz e litl jeys oor nou.
+         {130055}{130111}Luk inte hiz ajz. . .
+         {130129}{130165}... thouz big, priti ajz...
+         {130231}{130263}. . .aind teyl my. . .
+         {130280}{130311}... jeys...
+         {130318}{130351}...oor nou.
+         {130382}{130409}Jeys.
+         {130429}{130451}AJ don’t bilyv it.
+         {130485}{130599}Bilyv it oor not, juu pys ov shit,|ju’e stil gouinn tuu beern!
+         {131047}{131070}Juu feerst.
+         {131267}{131288}Ju’e heert.
+         {131296}{131322}Aj’l by ool rajt.
+         {131389}{131417}Douze?
+         {131855}{131912}Haiv juu eyve stud aind steyed ait it?
+         {131933}{132008}Maarveld ait its bjuuti. . .
+         {132017}{132071}. . .its qynies?
+         {132099}{132144}Biljens ov pypel. . .
+         {132150}{132216}. . .qast livinn aut theye lajvz.
+         {132241}{132281}Eblivies.
+         {132391}{132460}Did juu nou thait the feerst Mejtriks. . .
+         {132466}{132579}. . .woz dizajnt/dizajnd tuu by e peerfikt/pefeykt|hjuumen weerld weye nan safed. . .
+         {132590}{132660}. . .weye eyvriwan wud by haipi.
+         {132673}{132709}It woz e dizaaste.
+         {132715}{132819}Nou wan wud ekseypt the prougraim.|Intaje krops weer lost.
+         {132840}{132882}Sam bilyv thait. . .
+         {132888}{132993}. . .wy laikt the prougraiminn lainngwiq|tuu diskrajb joor peerfikt/pefeykt weerld.
+         {132999}{133036}Bat AJ bilyv thait. . .
+         {133046}{133068}. . .aiz e spyshyz. . .
+         {133074}{133166}. . .hjuumen byinnz difajn|theye riailiti xruu mizeri. . .
+         {133172}{133205}. . .aind saferinn.
+         {133211}{133276}Sou the peerfikt/pefeykt weerld woz e drym. . .
+         {133282}{133398}. . .thait joor primitiv seyribrem|keypt trajinn tuu wejk ap from.
+         {133430}{133518}Wich iz waj the Mejtriks woz|rydizajnt tuu this.
+         {133529}{133565}The pyk. . .
+         {133571}{133605}. . .ov joor sivelajzejshn.
+         {133611}{133665}AJ sej, "joor sivelajzejshn" . . .
+         {133671}{133770}. . .bikoz weyn wy staartid xinkinn|foor juu, it bikejm aue sivelajzejshn. . .
+         {133776}{133850}. . .wich iz, ov koors,|wot this iz ool ebaut.
+         {133882}{133944}Yveluushn, Moorfies.
+         {133951}{133983}Yveluushn.
+         {134038}{134083}Lajk the dajnesoor.
+         {134135}{134174}Luk aut thait windou.
+         {134191}{134242}Juu haid joor tajm.
+         {134259}{134353}The fjuuche iz aue weerld, Moorfies.
+         {134361}{134418}The fjuuche iz aue tajm.
+         {134520}{134547}Theye kud by e problem.
+         {134570}{134651}-Wot aar thej duinn tuu him?|-Thej’e brejkinn inte hiz majnd.
+         {134657}{134709}It’s lajk haikinn e kempjuute.|Ool it tejks iz tajm.
+         {134715}{134744}Hau mach tajm?
+         {134750}{134825}Dipeyndz on the majnd.|Bat iveynchueli, it’l kraik. . .
+         {134831}{134937}. . .aind hiz ailfe paitns|wil chejnq from this tuu this.
+         {134943}{135014}Weyn it daz, hy'll teyl theym|eynixinn thej wont tuu nou.
+         {135020}{135045}Wot duu thej wont?
+         {135051}{135148}The lyde ov eyvri ship iz given koudz|tuu Zajen's mejnfrejm kempjuute.
+         {135154}{135224}If en ejqent got the koudz|aind got inte Zajen's mejnfrejm. . .
+         {135230}{135304}. . .thej kud distroj as.|Wy kaan’t leyt thait haipen.
+         {135324}{135362}Zajen's moor impoortent thain my. . .
+         {135368}{135390}. . .oor juu. . .
+         {135398}{135429}. . .oor yven Moorfies.
+         {135520}{135560}Theye haiz tuu by|samxinn wy kain duu.
+         {135570}{135618}Theye iz. Wy pul the plag.
+         {135692}{135734}Ju’e gouinn tuu kil him?
+         {135740}{135768}Kil Moorfies?
+         {135783}{135822}Wy don’t haiv e chojs.
+         {135985}{136055}Neyve seynd e hjuumen|tuu duu e meshyn's qob.
+         {136061}{136103}If the insajde haiz fejld. . .
+         {136109}{136186}. . .thej’l seyve the keneykshn|aiz suun aiz posebl, anleys--
+         {136192}{136233}Thej’e deyd. In ajthe kejs--
+         {136239}{136324}Wy haiv nou chojs. Kentinjuu aiz plaind.|Diploj the seyntinelz.
+         {136330}{136356}Imydietli.
+         {136482}{136546}Moorfies, juu weer moor|thain e lyde tuu as.
+         {136569}{136622}Juu weer e faathe.
+         {136659}{136706}Wi’l mis juu oolwiz.
+         {136876}{136900}Stop!
+         {136929}{136958}AJ don’t bilyv this iz haipeninn.
+         {136964}{137013}-Nyou, this haiz tuu by dan.|-Daz it?
+         {137032}{137065}AJ don’t nou.
+         {137073}{137110}This kaan’t by qast kouinsidens.
+         {137115}{137135}Wot?
+         {137147}{137167}The Orekl.
+         {137173}{137216}Shy tould my this wud haipen.
+         {137226}{137326}Shy tould my thait AJ wud|haiv tuu mejk e chojs.
+         {137337}{137367}Wot chojs?
+         {137438}{137459}Wot aar juu duinn?
+         {137469}{137498}Aj’m gouinn in.
+         {137506}{137536}Nou, ju’e not.
+         {137542}{137562}AJ haiv tuu.
+         {137567}{137654}Nyou, Moorfies saikrifajst himseylf|sou thait wy kud geyt juu aut.
+         {137660}{137706}Theye iz nou wej|thait ju’e gouinn baik in.
+         {137720}{137798}Moorfies did wot hy did bikoz|hy bilyv Aj’m samxinn Aj’m not.
+         {137876}{137915}Aj’m not the Wan, Triniti.
+         {137924}{137995}-The Orekl hit my with thait tuu.|-Nou, juu haiv tuu by.
+         {138001}{138065}Aj’m sori, Aj’m not.|Aj’m qast enathe gaj.
+         {138081}{138111}Nou, Nyou, thait’s not truu.
+         {138125}{138157}It kaan’t by truu.
+         {138165}{138188}Waj?
+         {138294}{138374}This iz loukou. Thej’v got Moorfies|in e militeri-kentrould bildinn.
+         {138380}{138485}Yven if juu samhau got insajd, thouz|aar ejqents houldinn him. Xry ov theym.
+         {138516}{138610}AJ wont Moorfies baik tuu, bat|wot ju’e tookinn ebaut iz suuisajd.
+         {138616}{138655}Thait’s wot it luks lajk. . .
+         {138661}{138683}. . .bat it’s not.
+         {138689}{138746}AJ kaan’t iksplejn tuu juu waj it’s not.
+         {138772}{138861}Moorfies bilyv samxinn, aind|hy woz reydi tuu giv hiz lajf foor it.
+         {138867}{138939}AJ andestaind thait nau.|Thait’s waj AJ haiv tuu gou.
+         {138945}{138965}Waj?
+         {138971}{139006}Bikoz AJ bilyv in samxinn.
+         {139011}{139031}Wot?
+         {139066}{139107}AJ bilyv AJ kain brinn him baik.
+         {139514}{139560}-Wot aar juu duinn?|-Gouinn with juu.
+         {139567}{139588}Nou, ju’e not.
+         {139594}{139615}"Nou"?
+         {139643}{139694}Leyt my teyl juu wot AJ bilyv.
+         {139706}{139763}Moorfies myns moor tuu my|thain hy daz tuu juu.
+         {139771}{139874}AJ bilyv if juu aar siries ebaut|sejvinn him, juu wil nyd maj heylp.
+         {139880}{139929}Aind sins AJ aim the rainkinn ofise. . .
+         {139935}{140004}. . .if juu don’t lajk it,|AJ bilyv juu kain gou tuu heyl.
+         {140022}{140080}Bikoz juu aarn’t gouinn eyniweye eyls.
+         {140090}{140110}Taink. . .
+         {140131}{140159}. . .Ioad as ap.
+         {140389}{140468}Aj’d lajk tuu sheye|e reyvelejshn thait Aj’v haid. . .
+         {140478}{140515}. . .djuerinn maj tajm hie.
+         {140521}{140617}It kejm tuu my weyn AJ trajd|tuu klaisifaj joor spyshyz. . .
+         {140623}{140677}. . .aind AJ rielajzd. . .
+         {140683}{140738}. . .thait ju’e not aikchueli maimelz.
+         {140791}{140850}Eyvri maimel on this plainit. . .
+         {140858}{140976}. . .instinktlivli diveyleps en ykwilibriem|with the seraundinn invajrenment.
+         {140982}{141026}Bat juu hjuumens duu not.
+         {141039}{141124}Juu muuv tuu en eyrie|aind juu maltipli/maltiplaj. . .
+         {141130}{141238}. . .aind maltipli/maltiplaj antil eyvri|naicherel risoors iz kensjuumd.
+         {141246}{141296}The ounli wej juu kain sevajv. . .
+         {141303}{141374}. . .iz tuu spreyd tuu enathe eyrie.
+         {141504}{141573}Theye iz enathe oorgenizm|on this plainit. . .
+         {141579}{141626}. . .thait folouz the sejm paitn.
+         {141641}{141681}Duu juu nou wot it iz?
+         {141690}{141734}E vajres.
+         {141766}{141839}Hjuumen byinnz aar e dizyz.
+         {141848}{141885}E kainse ov this plainit.
+         {141891}{141942}Juu aar e plejg.
+         {141955}{141979}Aind wy. . .
+         {141993}{142026}. . .aar the kjue.
+         {142050}{142084}Oukej, sou wot duu juu nyd?
+         {142099}{142126}Bisajdz e mirekl.
+         {142140}{142169}Gans.
+         {142194}{142218}Lots ov gans.
+         {142526}{142587}Nou wan haiz eyve dan|eynixinn lajk this.
+         {142616}{142662}Thait’s waj it’s gouinn tuu weerk.
+         {142760}{142807}Waj izn’t the sirem weerkinn?
+         {142821}{142876}Pehaips wi’e aaskinn|the ronn kweystshens.
+         {142926}{142956}Lyv my with him.
+         {143018}{143045}Nau.
+         {143314}{143352}Hould on, Moorfies.
+         {143358}{143423}Thej’e kaminn foor juu.|Thej’e kaminn.
+         {143480}{143531}Kain juu hie my, Moorfies?
+         {143537}{143601}Aj’m gouinn tuu by onist. . .
+         {143610}{143639}. . .with juu.
+         {143744}{143778}AJ. . .
+         {143804}{143826}. . .hejt. . .
+         {143832}{143879}. . .this plejs. . .
+         {143887}{143942}. . .this zuu. . .
+         {143948}{143975}. . .this prizen. . .
+         {143981}{144057}. . .this riailiti,|woteyve juu wont tuu kool it.
+         {144063}{144118}AJ kaan’t staind it eyni lonne.
+         {144136}{144181}It’s the smeyl.
+         {144214}{144259}If theye iz sach e xinn.
+         {144267}{144346}AJ fyl saicherejtid baj it.
+         {144382}{144413}AJ kain. . .
+         {144419}{144440}. . .tejst. . .
+         {144460}{144509}. . .joor stink.
+         {144515}{144605}Aind eyvri tajm AJ duu, AJ fie thait|AJ haiv samhau byn infeyktid baj it.
+         {144611}{144631}It’s ripalsiv.
+         {144654}{144687}Izn’t it?
+         {144739}{144794}AJ mast/maist geyt aut ov hie.
+         {144804}{144857}AJ mast/maist geyt fry.
+         {144863}{144932}Aind in this majnd iz the ky.
+         {144938}{144978}Maj ky.
+         {144984}{145053}Wans Zajen iz distrojd,|theye iz nou nyd foor my tuu by hie.
+         {145059}{145098}Duu juu andestaind?
+         {145105}{145138}AJ nyd the koudz.
+         {145144}{145200}AJ haiv tuu geyt insajd Zajen. . .
+         {145208}{145268}. . .aind juu haiv tuu teyl my hau.
+         {145278}{145323}Ju’e gouinn tuu teyl my. . .
+         {145329}{145381}. . .oor ju’e gouinn tuu daj.
+         {145865}{145907}Plyz rimuuv eyni mitailik ajtemz|ju’e kairiinn. Kyz, luus chejnq.
+         {145907}{145940}Plyz rimuuv eyni mitailik ajtemz|ju’e kairiinn. Kyz, luus chejnq.
+         {146033}{146058}Houli shit!
+         {146348}{146369}Baikap.
+         {146375}{146413}Seynd baikap.
+         {146989}{147011}Fryz!
+         {150249}{150273}Wot weer juu duinn?
+         {150317}{150348}Hy dazn’t nou.
+         {150354}{150390}Nou wot?
+         {151063}{151123}AJ xink thej’e trajinn tuu sejv him.
+         {151479}{151521}Theye iz nou spuun.
+         {152231}{152283}Fajnd theym aind distroj theym!
+         {152322}{152345}Wi’e ande etaik!
+         {153136}{153156}Heylp!
+         {153684}{153713}Ounli hjuumen.
+         {153739}{153762}Doq this.
+         {154090}{154127}-Hau did juu duu thait?|-Duu wot?
+         {154126}{154220}Juu muuvd lajk thej duu.|Aj’v neyve syn eyniwan muuv thait faast.
+         {154247}{154280}It wozn’t faast inaf.
+         {154346}{154377}Kain juu flaj thait xinn?
+         {154409}{154429}Not jeyt.
+         {154497}{154517}Operejte.
+         {154512}{154588}AJ nyd e pajlet prougraim|foor e B-212 heylikopte.
+         {154599}{154630}Hari.
+         {154820}{154859}Leyt’s gou.
+         {155221}{155247}Nou.
+         {156484}{156521}Moorfies, geyt ap.
+         {156527}{156547}Geyt ap, geyt ap.
+         {157459}{157484}Hy’z not gouinn tuu mejk it.
+         {157719}{157744}Got juu.
+         {160400}{160434}AJ njuu it.
+         {160454}{160478}Hy’z the Wan.
+         {160861}{160914}Duu juu bilyv it nau, Triniti?
+         {161056}{161077}The Orekl.
+         {161107}{161164}-Shy tould my--|-Shy tould juu. . .
+         {161173}{161211}. . .wot juu nydid tuu hie.
+         {161218}{161250}Thait’s ool.
+         {161275}{161346}Suune oor lejte juu’l rielajz,|qast aiz AJ did. . .
+         {161354}{161409}. . .theye’z e diferens|bitwyn nouinn the paax. . .
+         {161427}{161458}. . .aind wookinn the paax.
+         {161531}{161560}Operejte.
+         {161582}{161643}-It’s gud tuu hie joor vojs.|-Wy nyd en eyksit.
+         {161649}{161716}Got wan reydi. Sabwej stejshn,|Stejt aind Bailboue.
+         {162029}{162052}Daim it!
+         {162058}{162087}The trejs woz kemplytid.
+         {162093}{162115}Wy haiv theye pezishn.
+         {162125}{162179}Seyntinelz aar staindinn baj.
+         {162220}{162256}Oorde the strajk.
+         {162413}{162440}Thej’e not aut jeyt.
+         {162729}{162761}Juu feerst, Moorfies.
+         {163257}{163312}Nyou, AJ wont tuu teyl juu samxinn. . .
+         {163390}{163485}. . .bat Aj’m efrejd ov|wot it kud myn if AJ duu.
+         {163571}{163650}Eyvrixinn the Orekl|tould my haiz kam truu.
+         {163716}{163753}Eyvrixinn bat this.
+         {163794}{163814}Bat wot?
+         {164445}{164484}-Wot haipent?|-En ejqent.
+         {164490}{164510}Seynd my baik.
+         {164516}{164537}AJ kaan’t.
+         {164585}{164633}Mr. Aindesen.
+         {164685}{164718}Ran, Nyou. Ran.
+         {164845}{164884}Wot iz hy duinn?
+         {164890}{164920}Hy’z bigininn tuu bilyv.
+         {165565}{165565}Ju’e eympti.
+         {165565}{165583}Ju’e eympti.
+         {165583}{165598}Ju’e eympti.
+         {165612}{165643}Sou aar juu.
+         {166438}{166510}Aj’m gouinn tuu inqoj wochinn juu daj. . .
+         {166537}{166562}. . .Mr. Aindesen.
+         {167544}{167594}Qyzes, hy’z kilinn him.
+         {169660}{169711}Juu hie thait, Mr. Aindesen?
+         {169729}{169801}Thait iz the saund ov ineyvitebiliti.
+         {169863}{169943}It iz the saund ov joor deyx.
+         {169965}{170021}Gudbaj, Mr. Aindesen.
+         {170027}{170066}Maj nejm. . .
+         {170138}{170187}. . .iz Nyou.
+         {170960}{171011}-Wot haipent?|-AJ don’t nou. AJ lost him.
+         {171073}{171098}Ou, shit.
+         {171395}{171430}Seyntinelz.
+         {171448}{171502}-Hau lonn?|-Fajv, mejbi siks minits.
+         {171551}{171603}Taink, chaarq the EMP.
+         {171609}{171682}-Wy kaan’t juus/juuz thait antil hy’z aut.|-AJ nou. Don’t wari.
+         {171715}{171736}Hy’z gone mejk it.
+         {171742}{171787}Flait oor pamps? Nou, qast--
+         {171793}{171862}Wot the shit? Thait’s maj foun!
+         {171872}{171910}Thait gaj tuk maj foun!
+         {171967}{171987}Got him!
+         {171993}{172022}Hy’z on the ran.
+         {172028}{172048}Mr. Wized...
+         {172059}{172092}. . .geyt my aut ov hie!
+         {172098}{172143}AJ got en ould eyksit.|Woobaish aind Lejk.
+         {172240}{172260}Ou, shit!
+         {172779}{172827}Heylp! Nyd e litl heylp!
+         {172866}{172895}The door.
+         {173278}{173314}The door on joor leyft.
+         {173336}{173366}Joor athe leyft!
+         {173527}{173557}The baik door.
+         {174055}{174082}Ou, nou.
+         {174122}{174158}Hie thej kam.
+         {174848}{174878}Hy’z gouinn tuu mejk it.
+         {175123}{175198}The faje iskejp ait the eynd|ov the aili, rum 303.
+         {176045}{176066}Thej’e insajd.
+         {176127}{176147}Hari, Nyou.
+         {177498}{177522}It kaan’t by.
+         {177709}{177742}Cheyk him.
+         {177838}{177875}Hy’z gon.
+         {178036}{178094}Gudbaj, Mr. Aindesen.
+         {178336}{178383}Aj’m not efrejd eynimoor.
+         {178422}{178452}The Orekl tould my. . .
+         {178504}{178588}. . .Aj’d fool in lav, aind thait|the main AJ lavd wud by the Wan.
+         {178663}{178710}Sou juu sy. . .
+         {178727}{178775}. . .juu kaan’t by deyd.
+         {178813}{178857}Juu kaan’t by. . .
+         {178894}{178946}. . .bikoz AJ lav juu.
+         {178990}{179031}Juu hie my?
+         {179058}{179098}AJ lav juu.
+         {179672}{179698}Nau, geyt ap.
+         {179914}{179934}Nou.
+         {180580}{180600}Hau?
+         {180621}{180646}Hy iz the Wan.
+         {184110}{184151}AJ nou ju’e aut theye.
+         {184157}{184201}AJ kain fyl juu nau.
+         {184211}{184254}AJ nou thait ju’e efrejd.
+         {184260}{184298}Ju’e efrejd ov as.
+         {184306}{184350}Ju’e efrejd ov chejnq.
+         {184356}{184415}AJ don’t nou the fjuuche.
+         {184421}{184483}AJ didn’t kam hie tuu teyl juu|hau this iz gouinn tuu eynd.
+         {184489}{184560}AJ kejm hie tuu teyl juu|hau it’s gouinn tuu bigin.
+         {184583}{184621}Aj’l hainn ap this foun.
+         {184627}{184701}Aind theyn Aj’l shou thyz pypel|wot juu don’t wont theym tuu sy.
+         {184707}{184752}Aj’m gouinn tuu shou theym e weerld...
+         {184758}{184800}... withaut juu.
+         {184807}{184894}E weerld withaut ruulz aind kontroulz/kentroulz,|withaut boordez oor baunderiz.
+         {184900}{184989}E weerld weye eynixinn iz posebl.
+         {185052}{185084}Weye wy gou from theye...
+         {185090}{185137}...iz e chojs AJ lyv tuu juu._
+      
